@@ -1,0 +1,244 @@
+{
+  "foods": [
+      {
+          "name": "Cheese Pizza",
+          "image": "pizza.jpg",
+          "difficulty": "Medium",
+          "rating": 4.5,
+          "ingredients": [
+              "Pizza dough",
+              "Tomato sauce",
+              "cheese",
+              "Olive oil",
+              "Basil leaves",
+              "Oregano"
+          ],
+          "details": "A classic Italian dish made with a crispy crust, tangy tomato sauce, and melted cheese. It can be topped with various ingredients to suit different tastes."
+      },
+      {
+          "name": "Chicken Burger",
+          "image": "burger.jpg",
+          "difficulty": "Medium",
+          "rating": 4.8,
+          "ingredients": [
+              "Chicken patty",
+              "Burger buns",
+              "Lettuce",
+              "Tomato",
+              "Mayonnaise",
+              "Cheese slice"
+          ],
+          "details": "A juicy chicken patty sandwiched between soft buns with fresh vegetables and creamy mayonnaise, offering a delicious fast-food experience."
+      },
+      {
+          "name": "Pani Puri",
+          "image": "pani puri.jpg",
+          "difficulty": "Easy",
+          "rating": 4.2,
+          "ingredients": [
+              "Boiled potatoes",
+              "Tamarind chutney",
+              "Spicy mint water",
+              "Chickpeas",
+              "Chaat masala"
+          ],
+          "details": "A popular Indian street snack consisting of crispy puris filled with spicy, tangy water and a mixture of potatoes and chickpeas."
+      },
+      {
+          "name": "Chicken Biryani",
+          "image": "chicken biriyani.jpg",
+          "difficulty": "Hard",
+          "rating": 4.7,
+          "ingredients": [
+              "Basmati rice",
+              "Chicken",
+              "Yogurt",
+              "Onions",
+              "Tomatoes",
+              "Biryani spices",
+              "Saffron"
+          ],
+          "details": "A flavorful and aromatic rice dish made with layers of spiced chicken and fragrant rice, garnished with fried onions and fresh coriander."
+      },
+      {
+          "name": "Chocolate Milk Shake",
+          "image": "milkshake.jpg",
+          "difficulty": "Easy",
+          "rating": 4.0,
+          "ingredients": [
+              "Milk",
+              "Cocoa powder",
+              "Chocolate syrup",
+              "Sugar",
+              "Ice cubes",
+              "Whipped cream"
+          ],
+          "details": "A rich and creamy chocolate milkshake blended with cocoa and chocolate syrup, topped with whipped cream for an indulgent treat."
+      },
+      {
+          "name": "Dosa",
+          "image": "dosa.jpg",
+          "rating": 4.6,
+          "ingredients": [
+              "Rice",
+              "Urad dal",
+              "Fenugreek seeds",
+              "Salt",
+              "Water"
+          ],
+          "details": "A crispy and thin South Indian pancake made from fermented rice and lentil batter, often served with coconut chutney and sambar."
+      },
+      {
+          "name": "Pav Bhaji",
+          "image": "pav.jpg",
+          "difficulty": "Hard",
+          "rating": 4.9,
+          "ingredients": [
+              "Pav (bread rolls)",
+              "Potatoes",
+              "Tomatoes",
+              "Green peas",
+              "Pav bhaji masala",
+              "Butter"
+          ],
+          "details": "A spicy and flavorful mashed vegetable curry served with butter-toasted pav, a famous Mumbai street food."
+      },
+      {
+          "name": "Butter Chicken",
+          "image": "butter chicken.jpg.jpg",
+          "difficulty": "Medium",
+          "rating": 4.3,
+          "ingredients": [
+              "Chicken",
+              "Tomatoes",
+              "Butter",
+              "Cream",
+              "Ginger-garlic paste",
+              "Spices"
+          ],
+          "details": "A creamy and mildly spiced North Indian dish featuring tender chicken pieces cooked in a rich tomato-based butter sauce."
+      },
+      {
+          "name": "Paneer Tikka",
+          "image": "paneer.jpg",
+          "difficulty": "Medium",
+          "rating": 4.5,
+          "ingredients": [
+              "Paneer (cottage cheese)",
+              "Yogurt",
+              "Tandoori spices",
+              "Bell peppers",
+              "Onions",
+              "Lemon juice"
+          ],
+          "details": "A delicious appetizer where marinated paneer cubes are grilled to perfection, giving them a smoky and spicy flavor."
+      },
+      {
+          "name": "Dal Makhani",
+          "image": "dal.jpg.jpg",
+          "difficulty": "Easy",
+          "rating": 4.1,
+          "ingredients": [
+              "Black lentils",
+              "Kidney beans",
+              "Butter",
+              "Cream",
+              "Tomatoes",
+              "Spices"
+          ],
+          "details": "A creamy and rich lentil dish slow-cooked with butter and aromatic spices, a staple in Punjabi cuisine."
+      },
+      {
+          "name": "Chole Bhature",
+          "image": "chole.jpg",
+          "rating": 4.4,
+          "ingredients": [
+              "Chickpeas",
+              "Tomatoes",
+              "Onions",
+              "Spices",
+              "Flour",
+              "Yogurt"
+          ],
+          "details": "A combination of spicy chickpea curry served with deep-fried fluffy bread, a popular North Indian delicacy."
+      },
+      {
+          "name": "Samosa",
+          "image": "samosa.jpg",
+          "difficulty": "Medium",
+          "rating": 4.8,
+          "ingredients": [
+              "Flour",
+              "Boiled potatoes",
+              "Peas",
+              "Spices",
+              "Oil"
+          ],
+          "details": "A crispy and savory deep-fried pastry filled with a spiced potato mixture, commonly enjoyed as a snack with chutney."
+      },
+      {
+          "name": "Aloo Paratha",
+          "image": "aalo paratha.jpg",
+          "difficulty": "Easy",
+          "rating": 4.3,
+          "ingredients": [
+              "Whole wheat flour",
+              "Boiled potatoes",
+              "Spices",
+              "Ghee",
+              "Yogurt"
+          ],
+          "details": "A stuffed Indian flatbread filled with a spiced potato mixture, served with butter, yogurt, or pickle."
+      },
+      {
+          "name": "Shrimp Scampi",
+          "image": "shrimp.jpg",
+          "difficulty": "Medium",
+          "rating": 4.7,
+          "ingredients": [
+              "Shrimp",
+              "Garlic",
+              "Lemon juice",
+              "White wine",
+              "Butter",
+              "Parsley",
+              "Pasta"
+          ],
+          "details": "A flavorful seafood dish made with shrimp sautéed in garlic butter sauce, served over pasta or with bread."
+      },
+      {
+          "name": "Vegetable Stir-Fry",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReZ8UM4pGs-R31NIw8mzGWmM6udzfYus6rLQ&s",
+          "difficulty": "Easy",
+          "rating": 4.0,
+          "ingredients": [
+              "Mixed vegetables",
+              "Soy sauce",
+              "Garlic",
+              "Ginger",
+              "Sesame oil"
+          ],
+          "details": "A quick and healthy stir-fry made with fresh vegetables and flavored with soy sauce and aromatic spices."
+      },
+      {
+        "name": "Bread Omelet",
+        "image": "bread omelet.jpg",
+        "difficulty": "Easy",
+        "rating": 4.2,
+        "ingredients": [
+            "Eggs",
+            "Bread slices",
+            "Onions (chopped)",
+            "Tomatoes (chopped)",
+            "Green chilies (chopped)",
+            "Salt",
+            "Black pepper",
+            "Butter or oil",
+            "Coriander leaves",
+            "Cheese (optional)"
+        ],
+        "details": "A quick and delicious breakfast dish where eggs are whisked with spices and vegetables, then cooked with bread slices for a crispy and flavorful meal."
+    }
+    
+  ]
+}
